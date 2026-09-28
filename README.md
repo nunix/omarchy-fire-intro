@@ -6,7 +6,7 @@ burning OMARCHY wordmark, generated procedurally (no stock footage).
 Install:
 
 ```
-omarchy-intro-install https://github.com/<you>/omarchy-fire-intro.git
+omarchy-intro-install https://github.com/nunix/omarchy-fire-intro.git
 ```
 
 This clones the repo to `~/.config/omarchy/intros/fire/` and sets it as the
